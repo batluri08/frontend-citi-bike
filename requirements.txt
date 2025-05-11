@@ -9,3 +9,4 @@ streamlit-lottie
 branca
 requests
 plotly
+hopsworks[python]
