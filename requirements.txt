@@ -10,3 +10,4 @@ branca
 requests
 plotly
 hopsworks[python]
+lightgbm
